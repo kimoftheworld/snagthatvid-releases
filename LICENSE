@@ -1,0 +1,12 @@
+Copyright © 2026 SnagThatVid. All rights reserved.
+
+SnagThatVid is proprietary software. This repository contains only installers and update files
+for SnagThatVid; it does not contain, and does not license, its source code.
+
+You may download and install SnagThatVid and use it under the SnagThatVid End User License
+Agreement. No part of this repository or of SnagThatVid may be copied, modified, redistributed,
+sold, sublicensed, decompiled or reverse-engineered without prior written permission, except where
+applicable law expressly allows it.
+
+Third-party components included in SnagThatVid (such as FFmpeg) remain under their own licenses;
+see THIRD-PARTY-NOTICES.txt in the SnagThatVid install folder.
